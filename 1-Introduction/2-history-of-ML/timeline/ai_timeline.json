@@ -1,58 +1,98 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "",
+			"caption": "",
+			"credit": "By Human_evolution_scheme.svg: M. Gardederivative work: Gerbil (talk) - Human_evolution_scheme.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8858092\n; SVM by By User:ZackWeinberg, based on PNG version by User:Cyc - This file was derived from: Svm separating hyperplanes.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22877598"
 		},
 		"text": {
-			"headline": "AI-powered computeer games<br/> [YEARS]",
-			"text": "<p>[TODO]</p>"
+			"headline": "The evolution of machine learning",
+			"text": "Milestones from the 1950s to the 2010s"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
-			},
-			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
-			},
-			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
-			},
-			"start_date": {
-				"year": "1978"
-			},
-			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
+				"url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Organization_of_a_biological_brain_and_a_perceptron.png",
+				"caption": "Organization of a perceptron",
 				"credit": ""
 			},
 			"start_date": {
-				"year": "1989"
+				"year": "1957"
 			},
 			"text": {
-				"headline": "Bobby Brown",
-				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
+				"headline": "The first neural network: The perceptron",
+				"text": "<p>The perceptron is one of the first implementations of a binary classifier for supervised learning. It was developed by Frankk Rosenblatt (It was invented in 1943 by Warren McCulloch and Walter Pitts.) <br>It is considered one of the first neural networks</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/27._Dr._Edward_A._Feigenbaum_1994-1997.jpg",
+				"caption": "Edward Feigenbaum",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1965"
+			},
+			"text": {
+				"headline": "The introduction of expert systems",
+				"text": "<p>Domain-specific, rule-based systems replicate human experts in domains like medicine or finance. The term \"expert-systems\" was coined by Edward Feigenbaum (left, Stanford Heuristic Programming Project) and he is sometimes named the \"father of expert systems.\"</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://hneth.github.io/riskyr/inst/pix/README-ex1-prism-1.png",
+				"caption": "Example classification tree of a medical screening test. Positive test results are often of less predictive value than expected when the class in question occurs rarely.",
+				"credit": "Created by Hansjörg Neth with https://riskyr.org/"
+			},
+			"start_date": {
+				"year": "1984"
+			},
+			"text": {
+				"headline": "Classification and Regression trees (CART)",
+				"text": "<p>In the late 1980s and early 1990s new methods became popular. One such method were classification and regression trees (CART). The term was first introduced by Breiman et al. in 1984 and refers to trees that classify discrete categories (classification) or continuous variables (regression).</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/_YPScrckx28?si=YmZh2MnnnfwRwIRE",
+				"caption": "A brief explanation of support vector machines (SVM)",
+				"credit": "Visually Explained"
+			},
+			"start_date": {
+				"year": "1992"
+			},
+			"text": {
+				"headline": "The development of support vector machines (SVM)",
+				"text": "<p>Support Vector Machines are an algorithm for supervised classification. They were developed at AT&T Bell Laboratories by Vladimir Vapnik and colleagues.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Random_forest_explain.png#/media/File:Random_forest_explain.png",
+				"caption": "Example of a random forest",
+				"credit": "By TseKiChun - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112433454"
+			},
+			"start_date": {
+				"year": "1995"
+			},
+			"text": {
+				"headline": "Introducing random forests",
+				"text": "<p>Random forests are an ensemble-based classification method using the output of multiple decision trees. The class that is selected by the algorithm is the class that is selected by a majority of trees. They were introduced in 1995 by Tin Kam Ho.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg",
+				"caption": "Representing images on multiple layers of abstraction in deep learning",
+				"credit": "By Sven Behnke - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82466022"
+			},
+			"start_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Introduction of deep learning to artificial neural networks",
+				"text": "<p>Deep learning algorithms rely on multiple layers of neural networks to identify higher-level features of the input. Although the term Deep Learning was introduced to the machine learning community by Rina Dechter in 1986, it was introduced to artificial neural networks by Igor Aizenberg and colleagues in 2000. Since then it gained increasing popularity, also because of the increase in computational resources in the 2010s.</p>"
 			}
 		}
 	]
